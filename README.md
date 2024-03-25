@@ -17,3 +17,8 @@ That is all that I want to show. Thank you for visiting my website, Have a great
 
 In this website, I use both HTML and CSS with the help of the Visual Studio Code application.
 There is also a folder named "images" to put some images on the website. 
+
+This website met the ADA Compliance Standards for website accessibility. It uses a high color contrast, and alt text on images and can be navigated with a keyboard, mouse and touchscreen.
+
+I used the Lucida Sans font family. The font itself is clear and easy to read.
+
