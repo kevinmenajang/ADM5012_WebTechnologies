@@ -13,12 +13,12 @@ Here are some pictures that I took from the event:
 
 That is all that I want to show. Thank you for visiting my website, Have a great day!
 
+------------------------------------------------------------------------------------------------------------------------
 
+In this website, I use both HTML for the content (text) and CSS for the design or style of the website with the help of the Visual Studio Code application.
 
-In this website, I use both HTML and CSS with the help of the Visual Studio Code application.
-There is also a folder named "images" to put some images on the website. 
+This website met the ADA Compliance Standards for website accessibility. 
+I use a high colour contrast Alternative text on images and people can navigate the website with a keyboard, mouse and touchscreen.
 
-This website met the ADA Compliance Standards for website accessibility. It uses a high color contrast, and alt text on images and can be navigated with a keyboard, mouse and touchscreen.
-
-I used the Lucida Sans font family. The font itself is clear and easy to read.
+For the fonts, I use the Lucida Sans font family. The size of the font itself is sufficient, it is clear and easy to read with a good text and background contrast.
 
